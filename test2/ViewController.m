@@ -3,7 +3,8 @@
 //  test2
 //
 //  Created by 闫振 on 2018/1/13.
-//  Copyright © 2018年 TeeMo. All rights reserved.
+//  Copyright © 2018年
+//TeeMo. All rights reserved.
 //
 
 #import "ViewController.h"
